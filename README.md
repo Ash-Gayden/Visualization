@@ -1,3 +1,3 @@
 # Visualization
 
-A collage of old visualizations that I made in the past.
+A of old projects and visualizations that I made in the past.
